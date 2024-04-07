@@ -1,0 +1,26 @@
+.art1{
+          transition:box-shadow .3s;
+             margin-left: 2cm;
+             padding-bottom:0.5cm;
+             margin-bottom: 0.5cm;
+             
+            background-color:#5fbbff;
+            width: 400px;
+            border-radius: 8%;
+          }
+          .art1:hover{
+            box-shadow:  0 0 20px rgba(33,33,33,.2); ;
+          }
+
+          .img1:hover{
+            z-index: 0;
+             transform: scale(1.2);
+             transition-duration: 1s;}
+             .opa p{
+              font-size: medium;
+              width: 80%;
+              margin-left: 0%;
+              text-align: center;
+              position: relative;
+              margin-left: 0.9cm;
+            }
